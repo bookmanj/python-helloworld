@@ -25,6 +25,7 @@ sudo snap install python-helloworld --edge --devmode
 ```
 
 <br>
+## the basic frame work of this application came from https://github.com/gocarlos/python-ubuntu-snap-app-example
 <br>
 <br>
 <br>
