@@ -7,7 +7,7 @@ Example of a very simple python app packaged as [snap app](https://snapcraft.io)
 
 ```bash
 # clone app
-git clone git@github.com:gocarlos/python-ubuntu-snap-app-example.git
+git clone https://github.com/bookmanj/python-helloworld.git
 cd python-helloworld
 # build app
 snapcraft
